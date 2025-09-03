@@ -1,5 +1,9 @@
 # Gate To Stars
 
+[Key Features](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/Key-Features.md)
+
+[Hud Presets](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/Hud-Options.md)
+
 ---
 # Preamble
 ---
