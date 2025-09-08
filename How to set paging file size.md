@@ -31,14 +31,15 @@ Click Set → OK on all windows → Restart your PC.
 For Starfield, many players recommend setting a fixed paging file between 60 GB and 80 GB, regardless of your installed RAM, for best stability. Considering that 32GB RAM is recommended for the collection, the value should be at least 48 GB. The instructions were written by AI, so that's why it's like that.
 In my case I have 32 GB RAM and 40 GB swap and it works. I will put a screenshot below. If you're wondering why we don't leave it on automatic, it's because the engine BGS uses is buggy.
 ---
+## Step 1
 <img width="396" height="219" alt="Paging file step 1" src="https://github.com/user-attachments/assets/870d6844-b06c-4297-b7b0-39c82c250b80" />
-
+## Step 2
 <img width="405" height="467" alt="Paging file step 2" src="https://github.com/user-attachments/assets/bd98678c-1d01-4909-a662-9aa13d6e1872" />
-
+## Step 3
 <img width="405" height="467" alt="Paging file step 3" src="https://github.com/user-attachments/assets/e9ee5485-39cf-42b7-8652-e53801205048" />
-
+## Step 4
 <img width="413" height="597" alt="Paging file step 4" src="https://github.com/user-attachments/assets/d14fbaa9-77bf-468e-bbc1-3301fceb20f8" />
-
+## Step 5
 <img width="378" height="280" alt="Page file step 5" src="https://github.com/user-attachments/assets/ecd48f48-e8d7-40e3-98db-b99e3747e777" />
 
 
