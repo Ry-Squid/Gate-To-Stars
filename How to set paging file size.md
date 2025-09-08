@@ -49,7 +49,10 @@ In my case I have 32 GB RAM and 40 GB swap and it works. I will put a screenshot
 
 ### Step 5
 It is recommended to set initial size to 1.5x your RAM (e.g 32GB x 1.5 x 1024 MiB = 49152 MiB)
-It is recommended to set maximum size to 3x your RAM (e.g 32GB x 3 x 1025 MiB = 98304 MiB)
+
+It is recommended to set maximum size to 3x your RAM (e.g 32GB x 3 x 1024 MiB = 98304 MiB)
+
+
 <img width="378" height="280" alt="Page file step 5" src="https://github.com/user-attachments/assets/ecd48f48-e8d7-40e3-98db-b99e3747e777" />
 
 
