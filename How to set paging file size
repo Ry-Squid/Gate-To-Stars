@@ -1,4 +1,4 @@
-#📘 Guide: Switch Virtual Memory from Dynamic to Static (Windows 10 & 11)
+# 📘 Guide: Switch Virtual Memory from Dynamic to Static (Windows 10 & 11)
 
 Why fix it?
 Fixing the page file size ensures predictable performance—especially useful if you're running demanding games like Starfield or using huge mod packs for Skyrim.
@@ -26,9 +26,10 @@ Click Set → OK on all windows → Restart your PC.
 128 GB RAM → 192 GB / 384 GB
 
 ℹ️ Source: Microsoft Learn
-##🚀 Starfield Tip
+
+## 🚀 Starfield Tip
 For Starfield, many players recommend setting a fixed paging file between 60 GB and 80 GB, regardless of your installed RAM, for best stability. Considering that 32GB RAM is recommended for the collection, the value should be at least 48 GB. The instructions were written by AI, so that's why it's like that.
 In my case I have 32 GB RAM and 40 GB swap and it works. I will put a screenshot below. If you're wondering why we don't leave it on automatic, it's because the engine BGS uses is buggy.
 ---
 
-##✅ With this setup, you’ll have consistent performance across heavy games like Starfield or heavily-modded Skyrim.
+## ✅ With this setup, you’ll have consistent performance across heavy games like Starfield or heavily-modded Skyrim.
