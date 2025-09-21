@@ -4,7 +4,8 @@
 
 [Hud Presets](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/Hud-Options.md)
 
-[How to change page size] How to set paging file size.md#
+[How to change page size](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/Hud-Options.md)
+
 ---
 # Preamble
 ---
