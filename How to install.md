@@ -4,8 +4,8 @@
 - Get it from the official site: https://www.wabbajack.org/
 - Install the program anywhere you like.
 
-## 2. Download the Gate to Stars Wabbajack file -From here
-- Download my .wabbajack file (link provided).
+## 2. Download the Gate to Stars Wabbajack file 
+- Download my .wabbajack file [from here](https://www.nexusmods.com/starfield/mods/14762?tab=files)
 - Keep it somewhere easy to find (like your Desktop or Downloads). UNPACK
 
 ## 3. Run the file manually
