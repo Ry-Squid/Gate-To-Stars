@@ -2,9 +2,11 @@
 
 [Key Features](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/Key-Features.md)
 
-[Hud Presets](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/Hud-Options.md)
-
 [How to change page size](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/Hud-Options.md)
+
+[How to install modlist](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/How%20to%20install.md)
+
+[Hud Presets](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/Hud-Options.md)
 
 ---
 # Preamble
