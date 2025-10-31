@@ -53,9 +53,11 @@ The collection has been rigorously tested on multiple systems, with patches and 
 ---
 ## Installation
 ---
-### [Wabbajack](http://www.wabbajack.org/) 
+Follow instructions listed here
+[How to install modlist](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/How%20to%20install.md)
 
-Grab the latest version of Wabbajack from this link and place it anywhere, such as the root of a drive, but do not place it in a windows protected folder. (Program Files, Desktop, etc)
+
+## Once modlist is out of beta it will be listed on Wabbajack and you will be able to install it by following the instructions below
 
 Browse modlists and filter for Starfield, there are futher filters to fine tune the search but you shouldn't need to press any of that. Click download icon on the Gate To Stars list.
 Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Gate-to-Stars`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories. **You may have the Installation and Download locations on separate drives if you prefer, but your Installation folder should be on an SSD or NVME.** If you have the Installation on an HDD, you will experience stuttering and poor performance.
