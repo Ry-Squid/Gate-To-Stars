@@ -40,3 +40,12 @@ For those seeking maximum immersion, this preset removes most HUD elements for a
 
 
 <img width="909" height="94" alt="Screenshot 2025-11-20 214456" src="https://github.com/user-attachments/assets/33e8be75-2f33-4ad6-8966-13218e22f0c6" />
+
+
+ℹ️ Note
+
+If you don’t like any of the provided HUD presets, you can always:
+
+Disable the preset and return to the Vanilla HUD.
+
+Or use StarUI Configurator, which is already included and ready to use in MO2, to create your own HUD exactly how you want it.
