@@ -12,6 +12,8 @@
 
 [Nexus Mods Page](https://www.nexusmods.com/starfield/mods/14762)
 
+[Support](https://github.com/Checker90/gtsmodlist/blob/main/Support.md)
+
 ---
 # Preamble
 ---
