@@ -1,7 +1,7 @@
 # HUD Options
 
-### The GATE TO STARS collection includes carefully designed HUD presets, tailored for different player preferences:
-Important: When installing any HUD preset, make sure to let it overwrite the previous HUD preset.
+### The GATE TO STARS collection includes carefully designed HUD presets, tailored for different player preferences.
+Important: All HUD presets are already installed in MO2 under the HUD PRESET separator. When switching presets, make sure to overwrite the previous one.
 
 Choose the option that best suits your playstyle!
 
@@ -18,8 +18,7 @@ Choose the option that best suits your playstyle!
   ❌ No Enemy Health Bars
 
 ---
-## 🎯 Optional HUD – Classic (Vanilla) Experience - [Download](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=53551&game_id=4187&nmm=1)
----
+## 🎯 Optional HUD – Classic (Vanilla) Experience
 For players who prefer a full HUD, this preset keeps all standard elements visible:
 
 ✅ Hit Markers
@@ -29,7 +28,7 @@ For players who prefer a full HUD, this preset keeps all standard elements visib
 ✅ Enemy Health Bars
 
 ---
-## 🎯 Optional HUD – Realistic Interface - [Download](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=53451&game_id=4187&nmm=1)
+## 🎯 Optional HUD – Realistic Interface 
 ---
 For those seeking maximum immersion, this preset removes most HUD elements for a cinematic and challenging experience:
 
@@ -38,3 +37,6 @@ For those seeking maximum immersion, this preset removes most HUD elements for a
 ❌ No Enemies on Compass
 
 ❌ No Enemy Health Bars
+
+
+<img width="909" height="94" alt="Screenshot 2025-11-20 214456" src="https://github.com/user-attachments/assets/33e8be75-2f33-4ad6-8966-13218e22f0c6" />
