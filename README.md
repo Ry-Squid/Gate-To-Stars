@@ -10,6 +10,8 @@
 
 [Changelog](https://github.com/Checker90/gtsmodlist/blob/main/Changelog.md)
 
+[Nexus Mods Page](https://www.nexusmods.com/starfield/mods/14762)
+
 ---
 # Preamble
 ---
