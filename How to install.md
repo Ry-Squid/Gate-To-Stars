@@ -39,3 +39,5 @@
 ### Choose path for installation location and downloads location 
 - Choose a location that is not the root of a folder or a windows protected folder (e.g. Program Files, Desktop, etc)
 <img width="1451" height="696" alt="image" src="https://github.com/user-attachments/assets/45795b49-bc15-444b-8f73-b7eff6591dae" />
+
+[← Back to main page](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md)
