@@ -75,3 +75,5 @@ A suite of carefully selected tweaks:
 Better textures and lighting
 Performance boosts for smoother gameplay
 Reduced stutter and improved load times
+
+[← Back to main page](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md)
