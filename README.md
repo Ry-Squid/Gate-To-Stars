@@ -2,7 +2,7 @@
 
 [Key Features](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/Key-Features.md)
 
-[How to change page size](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/Hud-Options.md)
+[How to change page size]([https://github.com/Ry-Squid/Gate-To-Stars/blob/main/Hud-Options.md](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/How%20to%20set%20paging%20file%20size.md))
 
 [How to install modlist](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/How%20to%20install.md)
 
