@@ -49,3 +49,5 @@ If you don’t like any of the provided HUD presets, you can always:
 Disable the preset and return to the Vanilla HUD.
 
 Or use StarUI Configurator, which is already included and ready to use in MO2, to create your own HUD exactly how you want it.
+
+[← Back to main page](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md)
