@@ -57,3 +57,5 @@ It is recommended to set maximum size to 3x your RAM (e.g 32GB x 3 x 1024 MiB = 
 
 
 ## ✅ With this setup, you’ll have consistent performance across heavy games like Starfield or heavily-modded Skyrim.
+
+[← Back to main page](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md)
