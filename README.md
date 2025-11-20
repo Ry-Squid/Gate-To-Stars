@@ -63,11 +63,30 @@ Follow instructions listed here
 [How to install modlist](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/How%20to%20install.md)
 
 
-## Once modlist is out of beta it will be listed on Wabbajack and you will be able to install it by following the instructions below
+## Installation via Wabbajack
 
-Browse modlists and filter for Starfield, there are futher filters to fine tune the search but you shouldn't need to press any of that. Click download icon on the Gate To Stars list.
-Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Gate-to-Stars`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories. **You may have the Installation and Download locations on separate drives if you prefer, but your Installation folder should be on an SSD or NVME.** If you have the Installation on an HDD, you will experience stuttering and poor performance.
+The **Gate To Stars** modlist is available in the **non-featured section** of the Wabbajack Gallery now. You can install it by following these steps:
 
-You may delete the Downloads folder after the installation is completed successfully, if you want to save space.
+1. Open Wabbajack and browse **Modlists**. Filter for **Starfield**.  
+   - Make sure to **tick the "Non-Featured" filter** so that the Gate To Stars list appears.  
+   - Additional filters exist, but you typically don’t need to use them.
 
-Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
+2. Find the **Gate To Stars** list in the non-featured section and click the **Download** icon.  
+
+3. Set the `Installation Location` to a blank folder at the root of a drive, for example:  
+D:\WJ\Gate-to-Stars
+
+- The `Download Location` will update automatically.  
+- Avoid using Windows Protected Directories.  
+- You may have Installation and Download locations on separate drives if you prefer, but the Installation folder should be on an **SSD or NVMe**. Using an HDD may cause stuttering and poor performance.
+- If you have a **Nexus Premium** account, downloads will be automated.  
+- Without Premium, you will need to manually click the Download button for each mod. Installation itself will be automated regardless of account status.
+
+4. After installation completes successfully, you may delete the **Downloads** folder to save space.
+
+5. Open **Mod Organizer 2** in the folder where you installed the collection.  
+   - Before clicking the `Run` arrow, check the **Separators** such as **Optional** or **Ultrawide** options.  
+   - Enable any presets you want to use (for example, Ultrawide options if you have an ultrawide monitor).  
+
+6. Click the `Run` arrow in MO2 to start the game with the selected presets.  
+   - This ensures the game launches with all the mods and settings you have configured.
