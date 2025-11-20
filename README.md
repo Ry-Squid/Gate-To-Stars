@@ -8,6 +8,8 @@
 
 [Hud Presets](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/Hud-Options.md)
 
+[Changelog](https://github.com/Checker90/gtsmodlist/blob/main/Changelog.md)
+
 ---
 # Preamble
 ---
