@@ -71,10 +71,3 @@ Set the `Installation Location` to a blank folder at the root of a drive, such a
 You may delete the Downloads folder after the installation is completed successfully, if you want to save space.
 
 Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
-
----
-## Support
----
-
-You can contact the team at our Discord if you have any questions or would like to join the community.
-https://discord.com/invite/K2wxuVfeaF
