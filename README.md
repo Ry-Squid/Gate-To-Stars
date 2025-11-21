@@ -19,43 +19,26 @@
 ---
 # Preamble
 ---
-Welcome to GATE TO STARS – The Ultimate Starfield Overhaul
-This collection is a carefully crafted, fully integrated experience designed to unlock Starfield’s true potential. Every aspect has been considered: performance, visuals, gameplay, and immersion. The result is a seamless, stable, and breathtakingly immersive journey across the stars.
+**Gate to Stars – Ultimate Starfield Overhaul**
 
-Thank you all for the support, more great things are coming soon!
-– Checker90
+Gate to Stars is a fully optimized and carefully curated mod collection that transforms Starfield into a richer, more immersive, and more responsive experience.<br>
+Everything has been tuned, visuals, gameplay, performance, stability, and atmosphere, to deliver a seamless journey through the Settled Systems.
 
-Ready to take the leap? 🚀
+The collection currently includes over 700 integrated mods, all tested and balanced to work together.<br>
+The long-term goal is to expand the list to 1,000+ fully stable mods, while keeping performance and immersion top-tier.<br>
 
-🌌 Gate to Stars — The Ultimate Starfield Overhaul Collection
-Gate to Stars is a carefully curated mod collection that transforms Starfield into a more immersive, dynamic, and breathtaking experience. This collection combines the best community-made enhancements with custom tweaks, fixes, and optimizations — designed to elevate your journey among the stars without compromising performance or stability.
 
-✦ Core Philosophy
-Immersion First: Every addition is handpicked to deepen immersion without clutter. From reworked lighting to improved NPC behavior, the game feels more alive and reactive.
-Seamless Integration: All mods are balanced, tested, and adjusted to ensure smooth gameplay, minimizing conflicts and maximizing compatibility.
-Performance Matters: Optimizations across the board reduce stutters and improve FPS, even on mid-range PCs. The collection is designed for high performance while adding visual and gameplay depth.
-Lore-Friendly Enhancements: All changes are thoughtfully integrated within the Starfield universe, respecting the original narrative and world-building.
-✦ Key Features
-✅ Expanded Worlds:
-New environmental effects, improved planetary surfaces, and reworked cities like Neon and Akila breathe life into the Settled Systems. Wind, dust, and lighting adjustments create a living, breathing galaxy.
+**What Gate to Stars Delivers**
 
-✅ Overhauled Gameplay:
-Rebalanced weapons, smarter enemies, and a modular loadout system add challenge and variety to combat. Enhanced NPC AI, improved loot, and survival tweaks make exploration feel dangerous yet rewarding.
 
-✅ Enhanced Outposts and Ships:
-Build better, faster, and more functional outposts with new modules, furniture, and crew options. Expanded ship customization includes more realistic cockpit layouts, enhanced interiors, and immersive landing/takeoff sequences.
+* A More Alive Galaxy — improved environments, weather, lighting, and enhanced locations like Neon and Akila.
+* Better Gameplay — smarter AI, refined combat balance, meaningful encounters, and smoother mission flow.
+* Enhanced Outposts & Ships — more building options, better modules, immersive interiors, and cleaner transitions.
+* Clean Visual Upgrade — refined textures, atmospheric effects, and lighting improvements without losing performance.
+* Quality of Life Upgrades — cleaner UI, improved markers, smarter prompts, and reduced clutter.
+* Stability & Compatibility — tested load order, custom patches, and deep integration for a smooth, crash-free experience.
 
-✅ Immersive Visuals:
-From realistic starfields to refined textures, improved lighting systems, and more atmospheric effects, Starfield becomes visually stunning without straining your system.
-
-✅ Quality of Life Improvements:
-Smarter UI design, clear map markers, improved mission flow, and better in-game prompts reduce frustration and keep you immersed.
-
-✅ Weapon Arsenal Expansion:
-A diverse set of community-created weapons, balanced and lore-friendly, gives you new ways to tackle the frontier. Each weapon is integrated into the world naturally, with unique sounds, animations, and customization options.
-
-✅ Compatibility and Stability:
-The collection has been rigorously tested on multiple systems, with patches and load order adjustments ensuring a seamless experience. No crashes, no invisible weapons — just smooth gameplay.
+**Gate to Stars is built to feel natural and lore-friendly, an upgrade, not a rewrite.**
 
 
 ---
