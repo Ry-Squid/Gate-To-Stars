@@ -75,3 +75,4 @@ D:\WJ\Gate-to-Stars
 
 6. Click the `Run` arrow in MO2 to start the game with the selected presets.  
    - This ensures the game launches with all the mods and settings you have configured.
+<img width="919" height="240" alt="splash" src="https://github.com/user-attachments/assets/9fa3f5de-a803-473b-93ae-135ddb83dac3" />
