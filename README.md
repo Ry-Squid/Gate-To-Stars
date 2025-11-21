@@ -58,7 +58,10 @@ The **Gate To Stars** modlist is available in the **non-featured section** of th
    - Make sure to **tick the "Non-Featured" filter** so that the Gate To Stars list appears.  
    - Additional filters exist, but you typically don’t need to use them.
 
-2. Find the **Gate To Stars** list in the non-featured section and click the **Download** icon.  
+2. Find the **Gate To Stars** list in the non-featured section and click the **Download** icon.
+
+<img width="1425" height="686" alt="Screenshot 2025-11-20 192857" src="https://github.com/user-attachments/assets/68272030-4150-4035-a7da-6e8822e5074a" />
+
 
 3. Set the `Installation Location` to a blank folder at the root of a drive, for example:  
 D:\WJ\Gate-to-Stars
