@@ -44,8 +44,10 @@ The long-term goal is to expand the list to 1,000+ fully stable mods, while keep
 ---
 ## Installation
 ---
-Follow instructions listed here
+For manual installation, follow this link: 
 [How to install modlist](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/How%20to%20install.md)
+
+For installation via the Wabbajack gallery, follow the instructions below.
 
 
 ## Installation via Wabbajack
