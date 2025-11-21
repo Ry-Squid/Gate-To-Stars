@@ -1,5 +1,7 @@
 # Gate To Stars
 
+[Requirements](https://github.com/Checker90/gtsmodlist/blob/main/Requirements.md)
+
 [Key Features](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/Key-Features.md)
 
 [How to change page size](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/How%20to%20set%20paging%20file%20size.md)
