@@ -1,4 +1,9 @@
 # Gate To Stars
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This modlist is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).</a>
+
+  ![gtsmods logo](https://github.com/Checker90/gtsmodlist/blob/main/gtsbanner.webp?raw=true)
+
 
 [Requirements](https://github.com/Checker90/gtsmodlist/blob/main/Requirements.md)
 
