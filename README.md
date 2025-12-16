@@ -1,6 +1,6 @@
 # Gate To Stars
 <p align="center">
-  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This modlist is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).</a>
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><a href="https://github.com/Checker90/gtsmodlist/tree/main">Gate to Stars</a> © 2025 by <a href="https://github.com/Checker90">Checker90</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">.</a>
 
   ![gtsmods logo](https://github.com/Checker90/gtsmodlist/blob/main/gtsbanner.webp?raw=true)
 
@@ -87,3 +87,8 @@ D:\WJ\Gate-to-Stars
    - This ensures the game launches with all the mods and settings you have configured.
 
 ![gtsmods logo](https://github.com/Checker90/gtsmodlist/blob/main/gtsbanner.webp?raw=true)
+
+
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><a href="https://github.com/Checker90/gtsmodlist/tree/main">Gate to Stars</a> © 2025 by <a href="https://github.com/Checker90">Checker90</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">.</a>
+
