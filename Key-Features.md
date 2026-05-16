@@ -1,79 +1,65 @@
-# Key Features and Mods
+## Vision of Gate to Stars
 
-Here is a selection of the standout mods that form the backbone of the Gate to Stars collection, carefully chosen for their quality, immersion, and impact on gameplay.
+Starfield is already a remarkable game with enormous potential. The goal of Gate to Stars is not to turn it into something unrecognizable or to push it away from its original lore and atmosphere.
 
----
-## 🌌 TruePlanet - Enhanced Planets
----
-A visual overhaul that makes every planet surface unique and breathtaking. Expect more natural landscapes, atmospheric effects, and realistic lighting that truly capture the feeling of exploring alien worlds.
+Instead, the collection is designed to remain true to Starfield’s core identity while expanding and refining nearly every aspect of the experience.
 
----
-## 🔫 Weapon Overhaul Collection
----
-A rework of Starfield’s entire weapon system:
+The focus is on:
 
-Adds new, lore-friendly weapons with unique sounds and animations
-Balances damage, recoil, and spread for a more satisfying combat experience
-Integrates seamlessly into the loot and crafting systems
+Preserving the original tone, lore, and artistic direction.
+Increasing immersion and atmosphere.
+Adding meaningful new content.
+Improving gameplay balance and quality of life.
+Enhancing visuals, audio, AI, and performance.
 
----
-## 🚀 Landing Platforms & Ship Enhancements
----
-Enhances shipbuilding and outpost integration:
+Many systems have been improved, but always with the intention of making Starfield feel like a richer and more polished version of itself rather than a completely different game.
 
-Build functional landing pads at outposts
-Improved cockpit interiors for immersive piloting
-Dynamic ship customization options
+You will still recognize the world Bethesda created, but it will feel deeper, more alive, and more immersive.
 
----
-## 🌬️ Winds of Akila, Winds of Neon, Winds of Gagarin
----
-Environmental overhauls that add dynamic wind, dust, and particle effects to key locations, bringing these worlds to life like never before.
+What Gate to Stars Enhances
 
----
-## 🌃 New Atlantis Awaits
----
-A reimagining of New Atlantis with improved lighting, enhanced NPC behavior, and atmospheric effects that make the capital feel like a living, breathing city.
+Gate to Stars combines hundreds of carefully selected mods and custom patches that work together to improve the overall experience.
 
----
-## 🧭 True HUD & UI Enhancements
----
-Refines the user interface for clarity and immersion:
+Exploration and Planetary Diversity
 
-Minimalistic compass and markers
-Clearer mission prompts
-Smarter map navigation
+Planet surfaces are more varied and visually striking, with richer landscapes, atmospheric effects, and greater environmental detail. Exploring distant worlds feels more rewarding and memorable.
 
----
-## 🛡️ Enhanced AI & Combat
----
-Enemies are smarter, more reactive, and pose a real challenge. Includes:
+Cities and Settlements
 
-Improved stealth detection
-Better cover usage
-Dynamic reactions to the player’s actions
+Major locations such as New Atlantis, Akila City, Neon, Cydonia, and Gagarin feature additional atmosphere, environmental effects, and visual refinements that make them feel more alive and believable.
 
----
-## 🏗️ Outpost Expansion & Optimization
----
-Adds new modules, furniture, and QoL improvements for outpost building, making your settlements functional, aesthetic, and immersive.
+Combat and Weapons
 
----
-## 🎶 Soundscape Immersion Pack
----
-An overhaul of Starfield’s sound design:
+Weapons have been expanded and rebalanced with new additions, improved sounds and animations, and more satisfying gunplay, while remaining consistent with Starfield’s universe.
 
-Richer ambient sounds
-Unique audio profiles for different planets
-Enhanced weapon sounds and environmental effects
+Ships and Outposts
 
----
-## ✨ Visual & Performance Enhancements
----
-A suite of carefully selected tweaks:
+Ship building and outpost construction are significantly expanded with new options and quality-of-life improvements that add both functionality and immersion.
 
-Better textures and lighting
-Performance boosts for smoother gameplay
-Reduced stutter and improved load times
+User Interface and HUD
+
+The interface has been refined to provide clearer information and a cleaner presentation while preserving the overall look and feel of the original game.
+
+Artificial Intelligence
+
+Enemies behave more intelligently and react more naturally, creating more engaging stealth and combat encounters.
+
+Audio and Atmosphere
+
+Ambient sounds, environmental audio, and weapon effects have been enhanced to create a stronger sense of presence across every location.
+
+Visual and Performance Improvements
+
+Numerous optimizations and graphical refinements improve image quality, reduce stuttering, and provide a smoother overall experience.
+
+The Ultimate Goal
+
+The vision of Gate to Stars is simple: to make Starfield feel like the game many players imagined when they first looked up at the stars.
+
+More immersive. More polished. More content-rich.
+
+Still unmistakably Starfield.
+
+See you among the stars.
 
 [← Back to main page](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md)
