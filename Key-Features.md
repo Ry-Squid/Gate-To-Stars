@@ -6,17 +6,17 @@ Instead, the collection is designed to remain true to Starfield’s core identit
 
 The focus is on:
 
-Preserving the original tone, lore, and artistic direction.
-Increasing immersion and atmosphere.
-Adding meaningful new content.
-Improving gameplay balance and quality of life.
-Enhancing visuals, audio, AI, and performance.
+* Preserving the original tone, lore, and artistic direction.
+* Increasing immersion and atmosphere.
+* Adding meaningful new content.
+* Improving gameplay balance and quality of life.
+* Enhancing visuals, audio, AI, and performance.
 
 Many systems have been improved, but always with the intention of making Starfield feel like a richer and more polished version of itself rather than a completely different game.
 
 You will still recognize the world Bethesda created, but it will feel deeper, more alive, and more immersive.
 
-What Gate to Stars Enhances
+## What Gate to Stars Enhances
 
 Gate to Stars combines hundreds of carefully selected mods and custom patches that work together to improve the overall experience.
 
