@@ -19,7 +19,7 @@
 - Choose where you want the modlist installed (make sure you have plenty of free space).
 - Let Wabbajack do its work — it will download and install everything automatically.
 
-## Select Ultrawide Mods (if needed)
+## 5. Select Ultrawide Mods (if needed)
 * After installation, open Mod Organizer 2 (MO2).
 * If you use a standard 16:9 monitor, no additional action is required.
 * If you use an ultrawide monitor (21:9 or wider), enable all mods under the Ultrawide separator.
