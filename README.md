@@ -30,7 +30,7 @@
 Gate to Stars is a fully optimized and carefully curated mod collection that transforms Starfield into a richer, more immersive, and more responsive experience.<br>
 Everything has been tuned, visuals, gameplay, performance, stability, and atmosphere, to deliver a seamless journey through the Settled Systems.
 
-The collection currently includes over 700 integrated mods, all tested and balanced to work together.<br>
+The collection currently includes over 600 integrated mods, all tested and balanced to work together.<br>
 The long-term goal is to expand the list to 1,000+ fully stable mods, while keeping performance and immersion top-tier.<br>
 
 
