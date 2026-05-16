@@ -19,11 +19,10 @@
 - Choose where you want the modlist installed (make sure you have plenty of free space).
 - Let Wabbajack do its work — it will download and install everything automatically.
 
-## 5. Select your profile before playing
-- After installation, open Mod Organizer 2 (MO2).
-- Pick one of the profiles:
-  -  Gate to Stars (normal 16:9 monitors)
-  -   Gate to Stars Ultrawide (21:9 monitors),
+## Select Ultrawide Mods (if needed)
+* After installation, open Mod Organizer 2 (MO2).
+* If you use a standard 16:9 monitor, no additional action is required.
+* If you use an ultrawide monitor (21:9 or wider), enable all mods under the Ultrawide separator.
 
 
 ### ✅Done! Launch the game through MO2 and enjoy the full experience. 
